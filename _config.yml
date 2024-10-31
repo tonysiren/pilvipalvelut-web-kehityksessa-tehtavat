@@ -1,8 +1,10 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-theme: cayman
+theme: jekyll-theme-cayman
 
 header_pages:
 - index.md
 - vk2.md
+
+
 
