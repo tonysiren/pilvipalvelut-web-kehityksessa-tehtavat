@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>GitHub Pages Sivuni</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-    <h1>Tervetuloa GitHub Pages-sivustolleni!</h1>
-    <p class="container">Tämä on ensimmäinen GitHub Pages -teksti.</p>
-</body>
-</html>
+GitHub pages sivuni, jossa on Jekyll teema
+## Tervetuloa Github Pages-sivustolleni!
+Täältä löytyvät tehtävänpalautukset:
+- (Viikko 1)
+- (Viikko 2)
+- (Viikko 3)
+- (Viikko 4)
+- (Viikko 5)
+- (Viikko 6)
+- Harjoitustyö
