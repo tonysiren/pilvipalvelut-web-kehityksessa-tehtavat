@@ -1,6 +1,8 @@
 ## 2.3. Lyhyt kirjoitus
 
-[← Palaa edelliselle sivulle](https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/)
+<a href="https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/" style="display:inline-block;padding:0.5rem 1rem;background-color:#646cff;color:white;border-radius:5px;text-decoration:none;">
+  ← Palaa edelliselle sivulle
+</a>
 
 
 ## Miten Jekyll-sivustoa voisi automatisoida käyttäen GitHub Actions-toimintoja?
