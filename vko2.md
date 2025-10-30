@@ -1,5 +1,8 @@
 ## 2.3. Lyhyt kirjoitus
 
+[← Palaa edelliselle sivulle](https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/)
+
+
 ## Miten Jekyll-sivustoa voisi automatisoida käyttäen GitHub Actions-toimintoja?
 
 GitHub Actions on pilvipalveluna toimiva jatkuvan integroinnin ja jatkuvan toimittamisen (CI/CD) alusta, jonka avulla voidaan automatisoida rakennus-, testaus- ja käyttöönottoprosessit. Sen avulla voidaan automatisoida Jekyll-kääntöohjelmaa käyttävän sivuston rakennus ja julkaisu. Kun uusia tiedostoja viedään repositoryyn, niin julkaisu tapahtuu automatisoidusti. 
