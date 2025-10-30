@@ -8,7 +8,18 @@ GitHub Actions toimii siten, että määrittelemällä työnkulun voidaan käynn
 
 ## CI/CD-putkiston rakenntaminen web-sovellukselle
 
-Web-sovelluksen CI/CD-putkisto voidaan rakentaa hyödyntämällä useita työkaluja ja tekniikoita, jotka tukevat automaatiota, testausta ja jatkuvaa julkaisua. GitHub Actions toimii hyvin putkiston ytimenä ja kehitykseen voidaan yhdistää seuraavia työkaluja, kuten Docker ja Jenkins.
+Verkkosovelluksen CI/CD-putki alkaa versionhallinnalla Git-alustojen, kuten GitHubin, GitLabin tai Bitbucketin avulla, joita käytetään koodimuutosten hallintaan ja automatisoitujen työnkulkujen käynnistämiseen.
+Jatkuvan integraation (CI) vaiheessa työkalut, kuten GitHub Actions, GitLab CI/CD, Jenkins tai CircleCI, rakentavat ja testaavat sovelluksen automaattisesti jokaisen koodipäivityksen jälkeen varmistaen vakauden automatisoidun yksikkö- ja integraatiotestauksen avulla.
+Lopuksi jatkuva käyttöönotto (CD) automatisoi julkaisuprosessin käyttämällä teknologioita, kuten Docker ja Kubernetes, konttiympäristöissä tai pilvipohjaisia ​​ratkaisuja, kuten AWS CodePipeline, Azure DevOps, Vercel tai Netlify, saumattoman verkkosovelluksen toimituksen takaamiseksi.
+
+Lähteet: 
+
+Pilvipalvelut web-kehityksessä kurssin luentomateriaalit 2025. 
+
+The Codest. CI/CD (jatkuva integrointi/jatkuva käyttöönotto) määritelmä. Luettavissa: https://thecodest.co/fi/sanakirja/ci-cd-jatkuva-integrointi-jatkuva-kayttoonotto/. Luettu 30.10.2025.
+
+Digital.AI. Guide to Building a CI/CD Pipeline. Luettavissa: https://digital.ai/catalyst-blog/building-cicd-pipeline/. Luettu 30.10.2025.
+
 
 
 
