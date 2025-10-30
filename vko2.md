@@ -1,4 +1,4 @@
-<a href="https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/" style="display:inline-block;padding:0.5rem 1rem;background-color:#646cff;color:white;border-radius:5px;text-decoration:none;">
+<a href="https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/">
   ← Palaa edelliselle sivulle
 </a>
 
