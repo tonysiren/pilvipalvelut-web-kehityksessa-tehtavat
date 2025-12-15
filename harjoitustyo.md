@@ -23,13 +23,15 @@ Sivusto on täysin responsiivinen ja käytettävä. Elementit mukautuvat näytö
 
 ---
 
-## Toimivuus Uusimmilla Selaimilla
+## Toimivuus uusimmilla selaimilla
 
 Sivusto on testattu uusimmilla selaimilla, ja se toimii kaikissa moitteettomasti:
 
 - **Google Chrome (v120)** – ei havaittuja ongelmia  
 - **Mozilla Firefox (v122)** – kaikki toiminnot toimivat oikein  
-- **Microsoft Edge (v120)** – sivu latautuu nopeasti ja toimii virheettä    
+- **Microsoft Edge (v120)** – sivu latautuu nopeasti ja toimii virheettä
+- **Safari (v17)** – Ei havaittu ongelmia
+  
 
 Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen haku toimivat oikein.
 
@@ -56,7 +58,7 @@ Sovellus täyttää harjoitustyön arviointikriteerit:
 - Nopea latausaika ja hyvä tekninen toimivuus
 
 **Linkki sivulle:**  
-👉 *https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/saasovellus/*
+👉🏼 *https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/saasovellus/*
 
 
 
