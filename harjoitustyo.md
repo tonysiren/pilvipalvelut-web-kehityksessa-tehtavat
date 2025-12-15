@@ -44,7 +44,7 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 
 ## Yhteenveto
 
-Sovellus on teknisesti hyvin toteutettu ja responsiivinen kaikilla päätelaitteill.  
+Sovellus on teknisesti toimiva ja responsiivinen kaikilla päätelaitteilla.  
 Latausajat ovat erittäin hyvät sekä mobiilissa että desktopissa, mikä tekee käyttökokemuksesta sujuvan.  
 Sivusto noudattaa saavutettavuus- ja käytettävyysperiaatteita, toimii uusimmilla selaimilla ja käyttää moderneja web-teknologioita (React, Firebase, OpenWeatherMap API).
 
@@ -59,6 +59,7 @@ Sovellus täyttää harjoitustyön arviointikriteerit:
 
 **Linkki sivulle:**  
 👉🏼 *https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/saasovellus/*
+
 
 
 
