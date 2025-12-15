@@ -60,7 +60,7 @@ Sovellus täyttää harjoitustyön arviointikriteerit:
 **Linkki sivulle:**  
 👉🏼 *[Sääsovellus](https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/saasovellus/)*
 
-**Kirjaudu sisään tunnuksilla** 
+**Kirjaudu sisään tunnuksilla:** 
 
 **Sähköposti:**  saasovellus@pilvi.fi
 **Salasana:**  100aaa
