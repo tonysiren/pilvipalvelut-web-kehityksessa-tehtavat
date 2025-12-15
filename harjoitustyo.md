@@ -58,7 +58,7 @@ Sovellus täyttää harjoitustyön arviointikriteerit:
 - Nopea latausaika ja hyvä tekninen toimivuus
 
 **Linkki sivulle:**  
-👉🏼 *https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/saasovellus/*
+👉🏼 *[Sääsovellus](https://tonysiren.github.io/pilvipalvelut-web-kehityksessa-tehtavat/saasovellus/)*
 
 
 
