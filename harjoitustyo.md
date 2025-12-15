@@ -8,7 +8,7 @@ Sovellus hakee ajantasaiset säätiedot OpenWeatherMapin rajapinnan (REST API) k
 Tavoitteena oli tehdä käytännöllinen ja helppokäyttöinen sivusto, joka tarjoaa käyttäjälle hyödyllistä tietoa arjessa.
 
 ---
-### Toimivuus eri kokoisilla päätelaitteilla
+### Toimivuus eri päätelaitteilla
 
 **Desktop**  
 Sovellus toimii moitteettomasti. Kaikki elementit latautuvat ja asettuvat oikein.  
