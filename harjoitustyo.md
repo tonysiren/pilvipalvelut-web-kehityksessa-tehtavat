@@ -35,9 +35,14 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 
 ---
 
+## Testaus
+
+![PageSpeedTest](kuvat/PageSpeedTest.png)
+
+
 ## Yhteenveto
 
-Sovellus on teknisesti hyvin toteutettu ja **täysin responsiivinen kaikilla päätelaitteilla**.  
+Sovellus on teknisesti hyvin toteutettu ja responsiivinen kaikilla päätelaitteill.  
 Latausajat ovat erittäin hyvät sekä mobiilissa että desktopissa, mikä tekee käyttökokemuksesta sujuvan.  
 Sivusto noudattaa saavutettavuus- ja käytettävyysperiaatteita, toimii uusimmilla selaimilla ja käyttää moderneja web-teknologioita (React, Firebase, OpenWeatherMap API).
 
