@@ -50,7 +50,7 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 
 ## Testaus desktopilla
 
-! [Desktop](kuvat/Desktop.png)
+![Desktop](kuvat/Desktop.png)
 
 - **First Contentful Paint (FCP): 0.4 sekunttia** 
 - **Largest Contentful Paint (LCP): 0.4 sekunttia Total** 
