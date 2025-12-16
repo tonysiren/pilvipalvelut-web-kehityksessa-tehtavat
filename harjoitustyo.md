@@ -15,7 +15,7 @@ Sovellus toimii moitteettomasti. Kaikki elementit latautuvat ja asettuvat oikein
 Käyttäjäkokemus on sujuva ja selkeä. Kortit asettuvat kolmen sarakkeeseen ja sisältö pysyy keskitettynä.
 
 **Tablet**  
-Layout mukautuu hyvin vaakasuunnassa. Pystysuunnassa elementit asettuvat siististi allekkain.  
+Toimii kehittäjätyökalun mukaan.   
 Käytettävyys säilyy hyvänä molemmissa suunnissa.
 
 **Mobiili**  
