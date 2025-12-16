@@ -23,9 +23,9 @@ Sivusto on täysin responsiivinen ja käytettävä. Elementit mukautuvat näytö
 
 ---
 
-## Toimivuus uusimmilla selaimilla
+## Toimivuus eri selaimilla
 
-Sivusto on testattu uusimmilla selaimilla, ja se toimii kaikissa moitteettomasti:
+Sivusto on toimii kaikilla alla mainituilla selaimilla:
 
 - **Google Chrome (v120)** – ei havaittuja ongelmia  
 - **Mozilla Firefox (v122)** – kaikki toiminnot toimivat oikein  
@@ -40,6 +40,12 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 ## Testaus
 
 ![PageSpeedTest](kuvat/PageSpeedTest.png)
+
+- **First Contentful Paint (FCP): 1.7 sekunttia** 
+- **Largest Contentful Paint (LCP): 3.3 sekunttia Total** 
+- **Blocking Time (TBT): 0 ms** 
+- **Cumulative Layout Shift (CLS): 0**
+- **Speed Index (CLS): 1.7 sekunttia**
 
 
 ## Yhteenveto
