@@ -48,6 +48,17 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 - **Speed Index (CLS): 1.7 sekunttia**
 
 
+## Testaus desktopilla
+
+! [Desktop](kuvat/Desktop.png)
+
+- **First Contentful Paint (FCP): 0.4 sekunttia** 
+- **Largest Contentful Paint (LCP): 0.4 sekunttia Total** 
+- **Blocking Time (TBT): 0 ms** 
+- **Cumulative Layout Shift (CLS): 0**
+- **Speed Index (CLS): 0.4 sekunttia**
+
+  
 ## Yhteenveto
 
 Sovellus on teknisesti toimiva ja responsiivinen kaikilla päätelaitteilla.  
