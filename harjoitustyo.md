@@ -48,6 +48,8 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 - **Speed Index (CLS): 1.7 sekunttia**
 
 
+
+
 ## Testaus desktopilla
 
 ![Desktop](kuvat/Desktop.png)
