@@ -37,7 +37,7 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 
 ---
 
-## Testaus
+## Testaus mobiilissa
 
 ![PageSpeedTest](kuvat/PageSpeedTest.png)
 
@@ -51,7 +51,7 @@ Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen hak
 ## Yhteenveto
 
 Sovellus on teknisesti toimiva ja responsiivinen kaikilla päätelaitteilla.  
-Latausajat ovat erittäin hyvät sekä mobiilissa että desktopissa, mikä tekee käyttökokemuksesta sujuvan.  
+Latausajat ovat hyvät sekä mobiilissa että desktopissa, mikä tekee käyttökokemuksesta sujuvan.  
 Sivusto noudattaa saavutettavuus- ja käytettävyysperiaatteita, toimii uusimmilla selaimilla ja käyttää moderneja web-teknologioita (React, Firebase, OpenWeatherMap API).
 
 Sovellus täyttää harjoitustyön arviointikriteerit:
@@ -68,8 +68,8 @@ Sovellus täyttää harjoitustyön arviointikriteerit:
 
 **Kirjaudu sisään tunnuksilla:** 
 
-**Sähköposti:**  saasovellus@pilvi.fi
-**Salasana:**  100aaa
+- **Sähköposti:**  saasovellus@pilvi.fi
+- **Salasana:**  100aaa
 
 
 
