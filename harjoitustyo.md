@@ -27,10 +27,10 @@ Sivusto on täysin responsiivinen ja käytettävä. Elementit mukautuvat näytö
 
 Sivusto on toimii kaikilla alla mainituilla selaimilla:
 
-- **Google Chrome (v120)** – ei havaittuja ongelmia  
-- **Mozilla Firefox (v122)** – kaikki toiminnot toimivat oikein  
-- **Microsoft Edge (v120)** – sivu latautuu nopeasti ja toimii virheettä
-- **Safari (v17)** – Ei havaittu ongelmia
+- **Google Chrome** – ei havaittuja ongelmia  
+- **Mozilla Firefox** – kaikki toiminnot toimivat oikein  
+- **Microsoft Edge** – sivu latautuu nopeasti ja toimii virheettä
+- **Safari** – Ei havaittu ongelmia
   
 
 Kaikilla selaimilla kirjautuminen, kaupungin lisäys/poisto ja säätietojen haku toimivat oikein.
